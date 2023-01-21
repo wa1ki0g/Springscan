@@ -1,6 +1,8 @@
 # Springscan
 
-poc(持续更新中):
+一款针对于springboot框架的扫描工具
+
+# poc(持续更新中，还在慢慢加。。。)
 
 ```xml
 Spring敏感端点路径扫描
@@ -41,3 +43,4 @@ Options:
 
 <img width="1214" alt="image" src="https://user-images.githubusercontent.com/70200814/213861234-342a6e6e-d84a-427c-abb6-05c78b859669.png">
 
+poc exp - 引流引流
