@@ -1,6 +1,6 @@
 # Springscan
 
-一款针对于springboot框架的扫描工具
+一款针对于Spring Boot框架的扫描工具
 
 # poc(持续更新中，还在慢慢加。。。)
 
