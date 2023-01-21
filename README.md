@@ -2,7 +2,7 @@
 
 poc(持续更新中):
 
-```python
+```xml
 Spring敏感端点路径扫描
 H2databaceRce
 SnakeYamlRce
@@ -11,8 +11,6 @@ SpringDataCommonsRce
 SpringFramework
 
 ```
-
-
   
 # Spring敏感端点路径扫描:
 
@@ -22,6 +20,7 @@ SpringFramework
 
 # 用法
 
+```xml
 springscan version: 1.0.0
 Usage:  [-uft] [-u url] [-f filename] [-t thread] [-h help]
 
@@ -36,6 +35,7 @@ Options:
       
 
 目前批量扫描这里还没写,只能扫单个
+```
 
 # 演示
 
